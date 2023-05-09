@@ -1,3 +1,5 @@
+// the below script is used to filter a JSON array down to a chosen area and search queries. The search queries are separated by a space and are not case sensitive. 
+
 // replace below with ios shortcuts dictionary input
 
 let dict = {"area": "P2", "search": "research"}
