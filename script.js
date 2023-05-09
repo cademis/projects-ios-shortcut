@@ -9,7 +9,7 @@ let inputSearch = dict.search.toLowerCase(); // convert to lowercase
 
 let searchWords = inputSearch.split(" ");
 
-// replace below with ios shortcuts text input
+// Replace below with ios shortcuts text input. #todo #1 Find a clean way to import this data from google sheets.
 
 let projectsStr = '[{"ProjectID":"E3/001","ProjectDescription":"The Optimal Time of Day for Low and High Intensity Training","Area":"E3"},{"ProjectID":"P2/001","ProjectDescription":"Tools I Use to Consume Research Content","Area":"P2"},{"ProjectID":"P2/002","ProjectDescription":"New research description","Area":"P2"}]';
 
