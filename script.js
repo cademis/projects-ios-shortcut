@@ -1,4 +1,4 @@
-// replace below with ios shortcuts dictionary
+// replace below with ios shortcuts dictionary input
 
 let dict = {"area": "P2", "search": "research"}
 
